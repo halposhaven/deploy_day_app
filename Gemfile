@@ -33,5 +33,8 @@ gem 'rails', '3.0.3'
 gem "haml", ">= 3.0.0"
 gem "haml-rails"
 
+gem 'newrelic_rpm'
+gem 'ey_config'
+
 gem "formtastic"
 gem "httparty"
