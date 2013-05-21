@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'rack', '1.2.5'
-gem 'rails', '3.0.20'
+gem 'rack', '1.4.5'
+gem 'rails', '3.2.12'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -42,4 +42,4 @@ gem "httparty"
 gem "whenever"
 
 ## thinking sphinx test
-gem 'thinking-sphinx'
+gem 'thinking-sphinx', "~> 3.0.3"
