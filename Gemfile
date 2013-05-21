@@ -38,3 +38,8 @@ gem 'ey_config'
 
 gem "formtastic"
 gem "httparty"
+
+gem "whenever"
+
+## thinking sphinx test
+gem 'thinking-sphinx'
