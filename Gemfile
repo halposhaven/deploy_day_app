@@ -10,6 +10,8 @@ gem 'rails', '3.2.12'
 
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 
+gem 'json', '1.8.0'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 

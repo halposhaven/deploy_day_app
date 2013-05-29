@@ -116,6 +116,7 @@ DEPENDENCIES
   haml (>= 3.0.0)
   haml-rails
   httparty
+  json (= 1.8.0)
   newrelic_rpm
   rack (= 1.4.5)
   rails (= 3.2.12)
